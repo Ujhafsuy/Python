@@ -31,7 +31,8 @@ print(lista)
 
 ## Lista de Exercícios
 
-1 - 
+1 - Implementar um programa que recebendo uma lista de números inteiros, escreva seus elementos no
+terminal.
 ```py
 lista = [1, 3, 5]
 
@@ -43,6 +44,58 @@ for i in lista:
 ```
 
 2 -
+
+```py
+limite = int(input("Digite um número limite: "))
+lista = []
+
+for i in range(1, limite+1):
+    lista.append(i)
+
+print(lista)
+```
+
+3 -
+
+```py
+
+```
+4 -
+
+```py
+
+```
+5 -
+
+```py
+
+```
+6 -
+
+```py
+
+```
+7 -
+
+```py
+
+```
+8 -
+
+```py
+
+```
+9 -
+
+```py
+
+```
+10 -
+
+```py
+
+```
+11 -
 
 ```py
 
