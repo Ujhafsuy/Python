@@ -55,48 +55,21 @@ for i in range(1, limite+1):
 print(lista)
 ```
 
-3 -
+## Ordem crescente e decrescente
 
 ```py
+##Crescente
+lista = [10, 90, 5]
+lista.sort()
 
+##Decrescente
+lista = [10, 90, 5]
+lista.reverse()
 ```
-4 -
+
+* Contar a quantidade de elementos
 
 ```py
-
-```
-5 -
-
-```py
-
-```
-6 -
-
-```py
-
-```
-7 -
-
-```py
-
-```
-8 -
-
-```py
-
-```
-9 -
-
-```py
-
-```
-10 -
-
-```py
-
-```
-11 -
-
-```py
-
+lista = [10, 90, 5]
+print(lista, len(lista))
 ```
