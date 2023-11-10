@@ -73,3 +73,26 @@ lista.reverse()
 lista = [10, 90, 5]
 print(lista, len(lista))
 ```
+
+# Função
+
+```py
+n = int(input("Digite um número: "))
+
+def dobro(n):
+    dobro = n * 2
+    return dobro
+print(f"O dobro de {n} é {dobro(n)}")
+```
+
+```py
+n = int(input("Digite um número: "))
+m = int(input("Digite um número: "))
+
+def calculos(n, m):
+    dobro = n *2
+    triplo = m * 3
+    return dobro, triplo
+print(calculos(n,m)[0])
+print(calculos(n,m)[1])
+```
